@@ -8,3 +8,7 @@ MyOtherClass::MyOtherClass(int x, int y) {
 	this->x = x;
 	this->y = y;
 }
+
+int MyOtherClass::sum() {
+	return x + y;
+}

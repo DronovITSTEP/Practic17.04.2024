@@ -11,5 +11,7 @@ private:
 public:
 	MyOtherClass(int, int);
 	void print();
+
+	int sum();
 };
 
