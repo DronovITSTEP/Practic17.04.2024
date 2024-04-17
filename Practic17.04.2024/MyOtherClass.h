@@ -13,5 +13,7 @@ public:
 	void print();
 
 	int sum();
+
+	// тестовый коммент
 };
 
